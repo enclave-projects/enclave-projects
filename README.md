@@ -15,6 +15,7 @@ Hi! I'm **@enclave-projects**, a dedicated developer passionate about innovative
   - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
   - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
   - ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+  - ![NuxtJS](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 
 - **Cloud Platforms**:
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -26,12 +27,20 @@ Hi! I'm **@enclave-projects**, a dedicated developer passionate about innovative
   - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
   - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+ 
+- **Ai Apps and Web**
+  - ![Lovable](https://img.shields.io/badge/-Lovable-FF69B4?logo=heart&logoColor=white)
+  - ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?logo=openai&logoColor=white)
+  - ![Claude](https://img.shields.io/badge/-Claude-FFD700?logo=anthropic&logoColor=black)
+  - ![Bolt.New](https://img.shields.io/badge/-Bolt.new-00C4CC?logo=bolt&logoColor=white)
+  - ![Grok](https://img.shields.io/badge/-Grok-1DA1F2?logo=x&logoColor=white)
+  - ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white)
+  - ![Midjourney](https://img.shields.io/badge/-Midjourney-8A2BE2?logo=discord&logoColor=white)
 
 ### Interests
-- 🌐 Full-stack development
-- ☁️ Cloud computing
+- 🌐 Full-stack Web development
+- 📱 Full-stack App development
 - 🎨 UI/UX design
-- 🛡️ Cybersecurity
 
 ### Current Focus
 - 🌱 Serverless architectures & microservices
@@ -41,7 +50,6 @@ Hi! I'm **@enclave-projects**, a dedicated developer passionate about innovative
 ### Collaboration
 - 💞️ Open to:
   - Web app innovation
-  - Cloud-native projects
   - Open-source work
 
 ### Fun Facts
