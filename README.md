@@ -1,7 +1,7 @@
 # 👋 Welcome to @enclave-projects!
 
 ## About Me
-Hi! I'm **@enclave-projects**, a dedicated developer passionate about innovative tech solutions.
+Hi! I'm **Pranjal Sharma**, a dedicated developer passionate about innovative tech solutions.
 
 ### Skills
 - **Languages & Frameworks**:
