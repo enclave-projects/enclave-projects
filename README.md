@@ -12,7 +12,9 @@ Hello! I'm **@enclave-projects**, a passionate developer with a diverse skill se
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
+  - ![ReactNtive](https://www.svgrepo.com/show/355190/reactjs.svg)
+  - 1[Expo](https://img.icons8.com/?size=100&id=IpN1evivrDWO&format=png)
+    
 - **Cloud Platforms**:
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
   - ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
